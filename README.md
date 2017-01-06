@@ -6,5 +6,6 @@ https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset
 
 Next on to-do list:
 
-2) Recommend more than one similar title per movie.
-1) Given a subset of movies and rating, predict rating on a new movie (recommender system).
+1) Recommend more than one similar title per movie.
+
+2) Given a subset of movies and rating, predict rating on a new movie (recommender system).
